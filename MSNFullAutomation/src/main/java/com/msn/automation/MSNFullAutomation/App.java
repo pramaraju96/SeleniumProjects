@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello DevOps World!" );
         System.out.println( "Hello Servicenow!" );
+        System.out.println( "Added syso" );
     }
 }
